@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header_wrapper{
+    justify-content: center;
+    align-items: end;
+    display: flex;
+    
+
+}
+
+.iconitem a{
+color: #f69165;
+}
+
+.primary_text h4{
+font-size: 22px;
+font-weight: 500;
+color: #000;
+}
+
+.primary_text p{
+font-size: 16px;
+color: #a0a0a0;
+}
+
+.header_wrapper{
+    display: flex;
+
+}
+
+.collapse_main{
+    background-color: #00cce1;
+}
+
+.collapse_main span{
+    background-color: #f69165;
+    margin-left: 250px;
+    color: #fff;
+    display: flex;
+}
+
+.collapse_main span a{
+    color: #fff;
+    margin-left: 10px;
+    
+}
+
+.collapse_main span p{
+    margin-left: 10px;
+}
+
+.collapse_main ul{
+    margin-left: 40px;
+   
+}
+
+.collapse_main ul li a{
+    color: #fff;
+}
+
+.banner_content{
+    top: 25%;
+    left: 20%;
+    position: absolute;
+
+}
+
+.banner_section{
+    background-image: url(../images/banner.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 74vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+
+
+}
+
+.banner_content h2{
+background-color: #00cce1;
+color: #fff;
+font-size: 29px;
+padding: 6px 19px;
+width: fit-content;
+ margin-bottom: 5px;
+}
+
+.banner_content h3{
+background-color: #f69165;
+color: #fff;
+font-size: 36px;
+width: fit-content;
+padding: 6px 40px;
+}
+
+.banner_content p{
+color: #636363;
+font-size: 14px;
+}
+
+.btn-Learn{
+    border: 1px solid #f69165;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding: 8px;
+    background: #f69165;
+    color: white;
+    margin: 18px 0;
+    border-radius: 0;
+}
+
+.btn-book{
+    border: 1px solid #00cce0;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 8px;
+    background: #00cce0;
+    color: white;
+    margin: 18px 10px;
+    border-radius: 0;
+}
+
+.feature_section{
+    padding: 70px;
+}
+
+.featuretext{
+
+}
+
+.featuretext h2{
+color: #000;
+font-size: 26px;
+font-weight: 700;
+margin-bottom: 10px;
+}
+
+.featuretext p{
+color:#707070;
+font-size:  16px;
+margin-bottom: 30px;
+}
+
+.featureitem{
+    margin-left: 30px;
+}
+
+.featureitem h4{
+    color: #363636;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.featureitem p{
+    color:#707070;
+font-size:  16px;
+margin-bottom: 30px;
+}
